@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/monitor"
+        android:title="Featured" />
+    <item
+        android:id="@+id/page"
+        android:title="Feed" />
+
+    <item
+        android:id="@+id/profile"
+        android:title="Settings" />
+    <item
+        android:id="@+id/user"
+        android:title="User" />
+
+
+</menu>
